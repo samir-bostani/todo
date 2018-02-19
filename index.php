@@ -4,6 +4,6 @@
 </head>
 
 <body>
-  <?php echo "salam samir"; ?>
+  <?php echo "hello world"; ?>
 </body>
 </html>
