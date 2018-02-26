@@ -12,8 +12,9 @@
     <div class="jumbotron">
       <h1>Hello, world!</h1>
       <img height="500px" width="500px" src="img/img_01.jpg" alt="" class="rounded-circle">
-      <img height="500px" width="500px" src="img/img_04.jpg" alt="" class="rounded-circle">
+      <img height="500px" width="500px" src="img/img_02.jpg" alt="" class="rounded-circle">
     </div>
+    <span class="glyphicon glyphicon-envelope">
 
 
     <script src="js/jquery-3.3.1.js"></script>
