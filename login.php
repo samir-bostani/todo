@@ -12,11 +12,11 @@
   <?php include "menu.php" ?>
 
   <div class="container">
-    <h2>login todo zibo</h2>
+    <h2>login</h2>
     <form action="/login.php">
       <div class="form-group">
-        <label for="email">Email:</label>
-        <input type="text" class="form-control" id="UserName" placeholder="Enter UserName" name="user">
+        <label for="user">UserName:</label>
+        <input type="text" class="form-control" id="UserName" placeholder="Enter UserName" name="UserName">
       </div>
       <div class="form-group">
         <label for="pwd">Password:</label>
