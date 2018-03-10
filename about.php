@@ -12,6 +12,11 @@
   <?php include "menu.php" ?>
 
   <div class="container">
+    <div class="jumbotron">
+      <h1>ToDo zibo</h1>
+      <p>todo zibo is simple with basic fanctionality for orgonaize your job.</p>
+      <p>todo zibo is free and open source.</p>
+    </div>
   </div>
 
   <script src="js/jquery-3.3.1.js"></script>
